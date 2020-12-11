@@ -32,7 +32,7 @@ public class Row
     }
     
     /// <summary>
-    /// Creates a row with cells from a comma deliniated list.
+    /// Creates a row with cells from a comma delineated list.
     /// </summary>
     /// <param name="text">the contents of the row</param>
     /// <remarks>To create a new column within the row, use a comma.
