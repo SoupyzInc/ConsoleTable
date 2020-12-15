@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
 
@@ -70,8 +70,8 @@ public class Table
 		string tableTop = topLeft;
 		int maxWidth = maxRow.Length;
 
-		int c = 0;
-		for (int i = 1; i <= maxWidth - 2; i++)
+		//int c = 0;
+		for (int i = 1, c = 0; i <= maxWidth - 2; i++)
 		{
 			if (i != borders[c])
 			{
@@ -93,8 +93,8 @@ public class Table
 		//Render Bottom
 		string tableBottom = bottomLeft;
 
-		c = 0;
-		for (int i = 1; i <= maxWidth - 2; i++)
+		//c = 0;
+		for (int i = 1, c = 0; i <= maxWidth - 2; i++)
 		{
 			if (i != borders[c])
 			{
@@ -163,8 +163,7 @@ public class Table
 				else //Divieder Row
 				{
 					row += leftSide;
-					c = 0;
-					for (int k = 1; k <= maxWidth - 2; k++)
+					for (int k = 1, c = 0; k <= maxWidth - 2; k++)
 					{
 						if (k != borders[c])
 						{
