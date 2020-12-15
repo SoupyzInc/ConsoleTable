@@ -23,7 +23,6 @@ public class Row
     /// </summary>
     /// <param name="text">the content of the row</param>
     /// <remarks>See <see cref="AddRow(string)"/> for the parameters of <c>text</c>.</remarks>
-
     public Row(string text) 
     {
         Cells = new List<string>();
