@@ -1,2 +1,17 @@
 # ConsoleTable
 A [blog](https://github.com/SoupyzInc/ConsoleTable/wiki) on how I made a library that can help create beautiful, easy-to-use tables for console applications. This project is heavily inspired by [Spectre.Console](https://github.com/spectresystems/spectre.console) by [Patrik Svensson](https://github.com/patriksvensson). Go check him and his project out!
+
+# Table of Contents
+## [Home](https://github.com/SoupyzInc/ConsoleTable/wiki/Home)
+## [Basic Functionality](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality)
+### [Goal](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#goal)
+### [Planning](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#planning)
+### [Coding](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#coding)
+[The Row Class](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#the-row-class)
+
+[The Table Class](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#the-table-class)
+
+### [Example](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#example)
+## [Advanced Functionality](https://github.com/SoupyzInc/ConsoleTable/wiki/Advanced-Functionality)
+### [A New AddRow Method](https://github.com/SoupyzInc/ConsoleTable/wiki/Advanced-Functionality#a-new-addrow-method)
+### [No-Fix List](https://github.com/SoupyzInc/ConsoleTable/wiki/Advanced-Functionality#no-fix-issues)
