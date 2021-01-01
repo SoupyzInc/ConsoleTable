@@ -185,10 +185,12 @@ public class Table
 
 		//Render Table
 		Console.WriteLine(tableTop);
+		
 		foreach (var rowToPrint in rows)
 		{
 			Console.WriteLine(rowToPrint);
 		}
+		
 		Console.WriteLine(tableBottom);
 	}
 }
