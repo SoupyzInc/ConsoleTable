@@ -2,6 +2,14 @@
 A [blog](https://github.com/SoupyzInc/ConsoleTable/wiki) on how I made a library that can help create beautiful, easy-to-use tables for console applications. This project is heavily inspired by [Spectre.Console](https://github.com/spectresystems/spectre.console) by [Patrik Svensson](https://github.com/patriksvensson). Go check him and his project out!
 
 ```cs
+Table table = new Table();
+
+table.AddRow(@" ", @"Foo", @"Bar", @"Green, Eggs, and Ham");
+table.AddRow(@"12/18", @"56", @"67", @"93247");
+table.AddRow(@"12/19", @"-342879374927894", @"0", @"Fourty-two");
+
+Console.WriteLine("Foo and Bar Inventory");
+table.Render();
 ```
 
 ![](https://github.com/SoupyzInc/ConsoleTable/blob/main/Wiki/Images/Foo%20and%20Bar%20Inventory.png)
