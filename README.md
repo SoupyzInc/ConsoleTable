@@ -1,6 +1,13 @@
 # ConsoleTable
 A [blog](https://github.com/SoupyzInc/ConsoleTable/wiki) on how I made a library that can help create beautiful, easy-to-use tables for console applications. This project is heavily inspired by [Spectre.Console](https://github.com/spectresystems/spectre.console) by [Patrik Svensson](https://github.com/patriksvensson). Go check him and his project out!
 
+```cs
+```
+
+![](https://github.com/SoupyzInc/ConsoleTable/blob/main/Wiki/Images/Foo%20and%20Bar%20Inventory.png)
+
+*A table printed into the console using ConsoleTable.*
+
 # Table of Contents
 ## [Home](https://github.com/SoupyzInc/ConsoleTable/wiki/Home)
 ## [Basic Functionality](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality)
