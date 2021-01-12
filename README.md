@@ -29,4 +29,3 @@ table.Render();
 ### [Example](https://github.com/SoupyzInc/ConsoleTable/wiki/Basic-Functionality#example)
 ## [Advanced Functionality](https://github.com/SoupyzInc/ConsoleTable/wiki/Advanced-Functionality)
 ### [A New AddRow Method](https://github.com/SoupyzInc/ConsoleTable/wiki/Advanced-Functionality#a-new-addrow-method)
-### [No-Fix List](https://github.com/SoupyzInc/ConsoleTable/wiki/Advanced-Functionality#no-fix-issues)
